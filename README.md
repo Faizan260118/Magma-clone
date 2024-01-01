@@ -6,6 +6,6 @@
 
 Technology used for this website :-
 
--HTML
--css
--JAVASCRIPT
+- HTML
+- css
+- JAVASCRIPT
