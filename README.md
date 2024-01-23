@@ -9,3 +9,6 @@ Technology used for this website :-
 - HTML
 - css
 - JAVASCRIPT
+
+Home page of this website⬇️
+![HomePage](./magma.png "magmaclone")
