@@ -65,7 +65,7 @@ body {
 }
 
 #right-nav>button {
-    padding: 5px 15px;
+    padding: 10px 25px;
     background-color: transparent;
     border-radius: 50px;
     -webkit-border-radius: 50px;
@@ -75,7 +75,7 @@ body {
     border: 1px solid rgb(117, 121, 228);
     color: #fff;
     font-family: a;
-    font-size: 10px;
+    font-size: 14px;
 }
 
 .bottom-page1 {
@@ -89,7 +89,7 @@ body {
 .bottom-page1>h1 {
     font-family: a;
     font-size: 7vw;
-    font-weight: 320;
+    font-weight: 300;
     line-height: 1;
     color: #fff;
 }
@@ -109,13 +109,13 @@ body {
 }
 
 .bottom-page1-inner>p {
-    font-size: 14px;
+    font-size: 18px;
     color: #fff;
-    font-weight: 320;
+    font-weight: 300;
 }
 
 .bottom-page1-inner>button {
-    padding: 10px 30px;
+    padding: 15px 45px;
     border-radius: 50px;
     -webkit-border-radius: 50px;
     -moz-border-radius: 50px;
@@ -124,7 +124,7 @@ body {
     border: none;
     font-family: a;
     color: #0a3cce;
-    font-size: 10px;
+    font-size: 14px;
 }
 
 #page2 {
@@ -141,7 +141,7 @@ body {
 
 #page2>p {
     margin-bottom: 2rem;
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 300;
     font-family: a;
 }
@@ -150,7 +150,7 @@ body {
     letter-spacing: -2px;
     color: #dadada69;
     width: 95%;
-    font-size: 44px;
+    font-size: 65px;
     font-weight: 200;
     font-family: a;
     line-height: 1.1;
@@ -180,7 +180,7 @@ body {
 
 #page4>p {
     margin-bottom: 2rem;
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 300;
     font-family: a;
 }
@@ -188,7 +188,7 @@ body {
 #page4>h1 {
     letter-spacing: -2px;
     width: 95%;
-    font-size: 44px;
+    font-size: 65px;
     font-weight: 200;
     font-family: a;
     line-height: 1.1;
@@ -212,7 +212,7 @@ body {
 
 #page6>p {
     margin-bottom: 2rem;
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 300;
     font-family: a;
 }
@@ -220,7 +220,7 @@ body {
 #page6>h1 {
     letter-spacing: -2px;
     width: 95%;
-    font-size: 44px;
+    font-size: 65px;
     font-weight: 200;
     font-family: a;
     line-height: 1.1;
@@ -269,7 +269,7 @@ body {
 }
 
 #page8 {
-    margin-top: 30px;
+    margin-top: 50px;
     position: relative;
     width: 100vw;
     height: 100vh;
@@ -297,12 +297,12 @@ body {
 
 .page8-bottom>h1 {
     color: #fff;
-    font-size: 70px;
+    font-size: 100px;
     font-weight: 320;
 }
 
 .page8-bottom>button {
-    padding: 10px 30px;
+    padding: 15px 35px;
     border-radius: 50px;
     -webkit-border-radius: 50px;
     -moz-border-radius: 50px;
@@ -311,7 +311,7 @@ body {
     border: none;
     font-family: a;
     color: #0a3cce;
-    font-size: 10px;
+    font-size: 14px;
 }
 
 #page9 {
@@ -326,13 +326,16 @@ body {
     position: relative;
     height: 100%;
     width: 40%;
-    padding: 90px 100px 0;
+    padding-top: 90px;
+    padding-bottom: 0;
+    padding-left: 200px;
+    padding-right: 0px;
     letter-spacing: -3px;
     line-height: 1;
 }
 
 .left9>h1 {
-    font-size: 70px;
+    font-size: 90px;
     font-weight: 320;
     font-family: a;
     color: #fff;
@@ -380,16 +383,16 @@ body {
 .content-1>h3 {
     line-height: 1;
     letter-spacing: -0.25px;
-    font-size: 20px;
+    font-size: 25px;
     margin-bottom: 10px;
     font-weight: 420;
 }
 
 .content-1>p {
     color: rgba(255, 255, 255, 0.8);
-    font-size: 15px;
+    font-size: 25px;
     font-weight: 300;
-    line-height: 20px;
+    line-height: 30px;
     letter-spacing: -0.25px;
 }
 
@@ -485,18 +488,19 @@ body {
 }
 
 .page12-inner>h1 {
-    font-size: 7vw;
+    font-size: 8vw;
     font-weight: 300;
     margin-bottom: 2vw;
     letter-spacing: -4.05px;
-    line-height: 1;
+    line-height: 1.1;
 }
 
 .page12-inner>p {
     font-weight: 300;
     color: rgba(255, 255, 255, 0.8);
     letter-spacing: -0.05px;
-    line-height: 25px;
+    line-height: 35px;
+    font-size: 25px;
 }
 
 #page13 {
@@ -510,7 +514,7 @@ body {
 }
 
 #page13>h1 {
-    font-size: 60px;
+    font-size: 90px;
     font-weight: 320;
     line-height: 1.1;
     letter-spacing: -0.81px;
@@ -518,7 +522,7 @@ body {
 }
 
 #page13>button {
-    font-size: 10px;
+    font-size: 14px;
     background-color: #0a3cce;
     color: #fff;
     border-radius: 50px;
@@ -527,7 +531,7 @@ body {
     -ms-border-radius: 50px;
     -o-border-radius: 50px;
     border: none;
-    padding: 10px 20px;
+    padding: 15px 35px;
     word-spacing: 2px;
 }
 
@@ -554,14 +558,14 @@ body {
 
 .page14-inner>h1 {
     font-weight: 300;
-    font-size: 25px;
+    font-size: 40px;
     position: relative;
     z-index: 9999;
 }
 
 .page14-inner>i {
     font-weight: 100;
-    font-size: 25px;
+    font-size: 30px;
     color: #fff;
     position: relative;
     z-index: 9999;
@@ -617,7 +621,7 @@ body {
 .footer-1>.footer-inner>a {
     position: relative;
     text-decoration: none;
-    font-size: 10px;
+    font-size: 14px;
     color: rgb(255, 255, 255);
 }
 
@@ -653,7 +657,7 @@ body {
 
 .footer-2>h3 {
     font-weight: 300;
-    font-size: 20px;
+    font-size: 35px;
     margin-bottom: 20px;
 }
 
@@ -676,7 +680,7 @@ body {
 }
 
 .footer-2>.email>i {
-    font-size: 10px;
+    font-size: 12px;
     color: rgb(255, 255, 255);
 }
 
@@ -692,11 +696,11 @@ body {
 }
 
 .bottom-footer>i {
-    font-size: 10px;
+    font-size: 15px;
     font-weight: 300;
 }
 
 .bottom-footer>p {
     padding-left: 5px;
-    font-size: 10px;
+    font-size: 15px;
 }
